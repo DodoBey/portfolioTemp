@@ -24,8 +24,8 @@ function App() {
           <div className='flex-1 bg-none sm:bg-zinc-500 p-8 rounded-l-lg flex flex-col justify-between'>
             <span className='font-bold'>Dogukan (aka Dodo) Yigiter</span>
             <div className='mt-8'>
-              <h1 className='text-3xl font-bold mb-4'>
-                Front-End Developer from Victoria, BC
+              <h1 className='text-3xl font-bold mb-6'>
+                Hi! I&apos;m Front-End Developer from Victoria, BC
               </h1>
               <p className='font-medium'>
                 While I am working on the second version of my webpage, you can
@@ -61,7 +61,7 @@ function App() {
               </p>
             </div>
             <button
-              className='btn btn-primary rounded-lg mt-8 sm:w-1/4'
+              className='btn btn-primary rounded-lg mt-8 sm:w-36'
               onClick={handleClick}
             >
               Get in touch

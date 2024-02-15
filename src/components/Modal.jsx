@@ -45,7 +45,7 @@ const Modal = forwardRef((props, ref) => {
       ref={modalRef}
     >
       <div className='modal-box bg-opacity-90 rounded-lg'>
-        <h3 className='font-bold text-lg mb-8'>Contact</h3>
+        <h3 className='font-bold text-lg mb-8'>Let&apos;s Connect!</h3>
         <div className='modal-action'>
           <form
             className='w-full flex flex-col gap-4'
@@ -94,14 +94,14 @@ const Modal = forwardRef((props, ref) => {
             ></textarea>
             <div className='flex'>
               <button
-                className='btn flex-1'
+                className='btn flex-1 rounded-l-lg'
                 onClick={handleClose}
               >
                 Close
               </button>
               <button
                 type='submit'
-                className='btn btn-secondary flex-1'
+                className='btn btn-secondary flex-1 rounded-r-lg'
               >
                 Submit
               </button>
