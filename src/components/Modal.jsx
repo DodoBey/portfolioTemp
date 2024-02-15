@@ -87,7 +87,7 @@ const Modal = forwardRef((props, ref) => {
               />
             </label>
             <textarea
-              className='textarea textarea-bordered textarea-lg font-medium rounded-lg'
+              className='textarea textarea-bordered textarea-lg rounded-lg'
               placeholder='Message'
               name='Message'
               required
