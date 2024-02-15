@@ -1,8 +1,7 @@
-# React + Vite
+## Temporary Portfolio Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can visit [dogukanyigiter.com](https://dogukanyigiter.com/) while I am working on my new portfolio webpage. This is built with React with Tailwind/DaisyUI for visualization and uses the React Hot Toaster library to show some feedback back to the user.
 
-Currently, two official plugins are available:
+Also, I am using a custom PHP form solution to receive emails from the form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Cheers!**
