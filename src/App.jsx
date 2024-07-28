@@ -41,7 +41,7 @@ function App() {
                 , or read something from my{' '}
                 <a
                   className='link'
-                  href='https://dogukanyigiter.notion.site/dogukanyigiter/'
+                  href='https://dogukanyigiter.notion.site/05609345f1804398883a4b863723aa37?v=3fcd8ee2c52d4ee7bd7688aa39f3fd45&pvs=4'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
